@@ -1,0 +1,5 @@
+Füzet;25
+Toll;8
+Ceruza;42
+Vonalzó;15
+Radír;6
